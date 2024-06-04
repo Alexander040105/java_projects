@@ -230,7 +230,7 @@ public class loginPage extends javax.swing.JFrame {
     private void jButton2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton2MouseClicked
         // TODO add your handling code here:
         String password = String.valueOf(pass.getPassword());
-        if(password.equals("shikks") && username.getText().equals("shikkariIpil")){
+        if(password.equals("SolisFinals") && username.getText().equals("shikkariIpil")){
             homePage xen = new homePage();
             xen.setVisible(true);
             this.dispose();

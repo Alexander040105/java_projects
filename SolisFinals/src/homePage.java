@@ -5,8 +5,6 @@
  */
 package performanceTask2;
 
-import java.awt.Cursor;
-
 /**
  *
  * @author 63947

@@ -1,4 +1,4 @@
-package SolisFinals.src;
+package SolisFinals;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseProgram {
+public class ReverseProgram_Solis {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         System.out.println("Reverse Program");
